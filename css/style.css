@@ -39,7 +39,7 @@ body a:hover{
 }
 /*--banner--*/
 .banner{
-	background:url(../images/img1.jpg) no-repeat 0px 0px;
+	background:url(../images/mainback.jpg) no-repeat 0px 0px;
 	background-size:cover;
 	min-height:700px;
 }
